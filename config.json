@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuncrypt",
+        "uuid": 10750656,
+        "checksum": "ehwpsa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
